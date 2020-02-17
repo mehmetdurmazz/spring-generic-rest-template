@@ -4,8 +4,7 @@ to retrieve response in the generic way.
 
 ## Details
 * Two GET call is made to test API by the given URLs below that included in project's "application.properties" file -> 
-http://jsonplaceholder.typicode.com/posts
-http://jsonplaceholder.typicode.com/posts/42
+http://jsonplaceholder.typicode.com/posts && http://jsonplaceholder.typicode.com/posts/42
 
 These URLs are set in ***/config/Endpoint.java
 
