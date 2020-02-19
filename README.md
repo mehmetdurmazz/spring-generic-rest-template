@@ -8,8 +8,7 @@ http://jsonplaceholder.typicode.com/posts && http://jsonplaceholder.typicode.com
 
 These URLs are set in ***/config/Endpoint.java
 
-* Generics are defined in **/rest/RestCaller.java and implemented in **/rest/RestCallerImpl.java. Methods are defined in RestCallar Interface
-injected by **/service/ServiceCallImpl.java
+* Generics are defined in **/rest/RestCaller.java and implemented in **/rest/RestCallerImpl.java. Injected by **/service/ServiceCallImpl.java
 
 * Lombok API added to make the code easier for reading.
 
