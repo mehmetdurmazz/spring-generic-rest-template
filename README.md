@@ -16,7 +16,7 @@ injected by **/service/ServiceCallImpl.java
 
 ## UML Diagram
 
-![940px image](screenshots/UML.png)
+![500px image](screenshots/UML.png)
 
 
 
