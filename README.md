@@ -1,5 +1,5 @@
 # Spring Rest Template with Java Generics
-Spring Rest Template implemented with Java Generics in this project. 3 types of REST method(GET,POST and PUT) is used 
+Spring Rest Template implemented with Java Generics in this project. 3 types of REST method(GET,POST and PUT) are used 
 to retrieve response in the generic way.
 
 ## Details
