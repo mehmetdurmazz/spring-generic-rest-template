@@ -21,7 +21,7 @@ These URLs are set in ***/config/Endpoint.java
 
 ## How to test?
 
-It's enough to run application. Two way of making GET call implemented in program's main method -->
+It's enough to run application. Two ways of making GET call implemented in program's main method -->
 
 ```java
 	public static void main(String[] args) {
